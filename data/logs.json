@@ -1,5 +1,14 @@
 [
   {
+    "id": "muu125sabwkv",
+    "timestamp": "2026-10-04T16:20:45.898Z",
+    "type": "error",
+    "errorId": "ERR-MUU125JL-DRXT",
+    "route": "POST /api/auth/login",
+    "message": "User not found",
+    "userId": null
+  },
+  {
     "id": "muu11hyf21o6",
     "timestamp": "2026-10-04T16:20:15.015Z",
     "type": "error",
