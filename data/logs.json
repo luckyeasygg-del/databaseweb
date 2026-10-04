@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "muu0x6s8thit",
+    "timestamp": "2026-10-04T16:16:53.912Z",
+    "type": "error",
+    "errorId": "ERR-MUU0X5BE-OZ2Y",
+    "route": "GET /api/auth/me",
+    "message": "Not authenticated",
+    "userId": null
+  }
+]
