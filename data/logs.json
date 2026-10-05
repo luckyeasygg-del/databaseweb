@@ -1,5 +1,14 @@
 [
   {
+    "id": "muv6bw4p11ln",
+    "timestamp": "2026-10-05T11:36:04.201Z",
+    "type": "error",
+    "errorId": "ERR-MUV6BVG0-PFEN",
+    "route": "GET /api/auth/me",
+    "message": "Not authenticated",
+    "userId": null
+  },
+  {
     "id": "muv6btlt75gz",
     "timestamp": "2026-10-05T11:36:00.929Z",
     "type": "error",
