@@ -1,5 +1,13 @@
 [
   {
+    "id": "muulpo6lxq9n",
+    "timestamp": "2026-10-05T01:58:55.149Z",
+    "type": "account",
+    "action": "reset_all",
+    "count": 1,
+    "by": "1016947328"
+  },
+  {
     "id": "muullxgbykq2",
     "timestamp": "2026-10-05T01:56:00.539Z",
     "type": "error",
