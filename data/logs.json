@@ -1,5 +1,14 @@
 [
   {
+    "id": "muv2jayg4ady",
+    "timestamp": "2026-10-05T09:49:51.544Z",
+    "type": "account",
+    "action": "create",
+    "username": "Taxxrevv",
+    "role": "OWNER",
+    "by": "1016947328"
+  },
+  {
     "id": "muv0vxe0nm91",
     "timestamp": "2026-10-05T09:03:41.256Z",
     "type": "auth",
