@@ -1,5 +1,14 @@
 [
   {
+    "id": "muulq8riljbm",
+    "timestamp": "2026-10-05T01:59:21.822Z",
+    "type": "error",
+    "errorId": "ERR-MUULQ8JB-D28P",
+    "route": "GET /api/dashboard",
+    "message": "User not found",
+    "userId": null
+  },
+  {
     "id": "muulpo6lxq9n",
     "timestamp": "2026-10-05T01:58:55.149Z",
     "type": "account",
