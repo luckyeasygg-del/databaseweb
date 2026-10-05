@@ -1,5 +1,14 @@
 [
   {
+    "id": "muuvu6jybl70",
+    "timestamp": "2026-10-05T06:42:21.742Z",
+    "type": "error",
+    "errorId": "ERR-MUUVU4KG-NPPV",
+    "route": "GET /api/chat/users/e827f04182f1/messages",
+    "message": "is at 78ce727db8a366402cf4c43deaad8025f4ca1caf but expected a186aba13a796d38c4d1ea04f248adb56c15e61c - https://docs.github.com/rest/repos/contents#create-or-update-file-contents",
+    "userId": "f790abc60c3a"
+  },
+  {
     "id": "muuvu5nf83w2",
     "timestamp": "2026-10-05T06:42:20.571Z",
     "type": "error",
