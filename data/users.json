@@ -72,5 +72,19 @@
     "createdAt": "2026-10-05T06:37:00.940Z",
     "createdBy": "1016947328",
     "isFree": true
+  },
+  {
+    "id": "e76e20d758d7",
+    "username": "hanzcuwek",
+    "passwordHash": "$2a$10$O1982.Kvpc7eETGF.C0z2.DHf5QuHRj9u1O/Sf9JWuY/Js90Bec2a",
+    "role": "OWNER",
+    "status": "active",
+    "telegramId": "7304598962",
+    "expiredAt": null,
+    "createdAt": "2026-10-05T09:00:11.365Z",
+    "createdBy": "1016947328",
+    "createdByUsername": "@shvenkoqr",
+    "createdByName": "𝗸𝗶𝗻𝗼𝗺𝗱",
+    "source": "telegram"
   }
 ]
