@@ -1,5 +1,14 @@
 [
   {
+    "id": "muv5t9uum833",
+    "timestamp": "2026-10-05T11:21:35.526Z",
+    "type": "error",
+    "errorId": "ERR-MUV5T9NK-N9ZA",
+    "route": "POST /api/auth/password",
+    "message": "Password mismatch",
+    "userId": "059e40c90fc5"
+  },
+  {
     "id": "muv5s40v0fx9",
     "timestamp": "2026-10-05T11:20:41.311Z",
     "type": "error",
