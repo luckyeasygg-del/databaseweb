@@ -1,19 +1,5 @@
 [
   {
-    "id": "f790abc60c3a",
-    "username": "kinomd17",
-    "passwordHash": "$2a$10$D3LABDos57VPjkbbID4P0u/MKNnWI64HXV2w1HcpSTVzuNQgFTD0a",
-    "role": "OWNER",
-    "status": "active",
-    "telegramId": "1016947328",
-    "expiredAt": null,
-    "createdAt": "2026-10-05T06:29:30.959Z",
-    "createdBy": "1016947328",
-    "createdByUsername": "@shvenkoqr",
-    "createdByName": "𝗸𝗶𝗻𝗼𝗺𝗱",
-    "source": "telegram"
-  },
-  {
     "id": "acf45c48b4b5",
     "username": "free_5d72e0",
     "passwordHash": "$2a$10$D6CXWufT0wab/Bkaoxx6p.pcM2m6Fd.QYofbe5JPgcRc6fUjZ0w6G",
