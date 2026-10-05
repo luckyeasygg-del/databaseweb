@@ -85,5 +85,19 @@
     "createdBy": "1016947328",
     "createdByName": "𝗸𝗶𝗻𝗼𝗺𝗱",
     "source": "telegram-owner"
+  },
+  {
+    "id": "fa058cd12e6e",
+    "username": "Taxxrevv",
+    "passwordHash": "$2a$10$tOpSafSfUWdtWHFSoYReLOwpwYBpz2oZ.VBCWRWTiy5RG09lhTRA.",
+    "role": "OWNER",
+    "status": "active",
+    "telegramId": "7960619937",
+    "expiredAt": null,
+    "createdAt": "2026-10-05T09:49:49.992Z",
+    "createdBy": "1016947328",
+    "createdByUsername": "@shvenkoqr",
+    "createdByName": "𝗸𝗶𝗻𝗼𝗺𝗱",
+    "source": "telegram"
   }
 ]
