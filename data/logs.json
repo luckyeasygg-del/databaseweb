@@ -1,5 +1,14 @@
 [
   {
+    "id": "muvcfgi20chz",
+    "timestamp": "2026-10-05T14:26:48.266Z",
+    "type": "error",
+    "errorId": "ERR-MUVCFG4C-ESGF",
+    "route": "GET /api/auth/me",
+    "message": "Not authenticated",
+    "userId": null
+  },
+  {
     "id": "muv6c8tr4r6w",
     "timestamp": "2026-10-05T11:36:20.655Z",
     "type": "error",
