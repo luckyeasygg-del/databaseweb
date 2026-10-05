@@ -1,5 +1,14 @@
 [
   {
+    "id": "muux5wctkqz4",
+    "timestamp": "2026-10-05T07:19:28.013Z",
+    "type": "error",
+    "errorId": "ERR-MUUX5W5P-8W6L",
+    "route": "POST /api/auth/password",
+    "message": "Invalid current password",
+    "userId": "f3797e1878ba"
+  },
+  {
     "id": "muuw98e626mx",
     "timestamp": "2026-10-05T06:54:03.966Z",
     "type": "whatsapp",
