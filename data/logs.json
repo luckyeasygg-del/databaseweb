@@ -1,5 +1,14 @@
 [
   {
+    "id": "muuvt9kl3qze",
+    "timestamp": "2026-10-05T06:41:38.997Z",
+    "type": "error",
+    "errorId": "ERR-MUUVT9CY-PM8T",
+    "route": "GET /api/chat/users",
+    "message": "is at e86e92aa81ddf33eb747f773ffb106d684becd28 but expected 1699acdf4b9f0f28562fdc2bfafb5df252a9b5fd - https://docs.github.com/rest/repos/contents#create-or-update-file-contents",
+    "userId": "f3797e1878ba"
+  },
+  {
     "id": "muuvri0iis01",
     "timestamp": "2026-10-05T06:40:16.626Z",
     "type": "error",
