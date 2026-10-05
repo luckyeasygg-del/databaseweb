@@ -1,5 +1,14 @@
 [
   {
+    "id": "muv0v5ivbvdv",
+    "timestamp": "2026-10-05T09:03:05.143Z",
+    "type": "account",
+    "action": "create_owner",
+    "username": "kinomd",
+    "role": "OWNER",
+    "by": "1016947328"
+  },
+  {
     "id": "muv0taftfh0a",
     "timestamp": "2026-10-05T09:01:38.201Z",
     "type": "error",
