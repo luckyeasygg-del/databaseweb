@@ -1,5 +1,14 @@
 [
   {
+    "id": "muv2uz520akq",
+    "timestamp": "2026-10-05T09:58:56.102Z",
+    "type": "error",
+    "errorId": "ERR-MUV2UYSD-X92H",
+    "route": "GET /api/auth/me",
+    "message": "Not authenticated",
+    "userId": null
+  },
+  {
     "id": "muv2jayg4ady",
     "timestamp": "2026-10-05T09:49:51.544Z",
     "type": "account",
