@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "muuvtss0wgtb14",
+    "userId": "acf45c48b4b5",
+    "title": "New private message",
+    "message": "kinomd17: halo",
+    "type": "chat",
+    "source": "chat",
+    "link": "/chat.html",
+    "silent": true,
+    "read": false,
+    "createdAt": "2026-10-05T06:42:03.888Z"
+  }
+]
