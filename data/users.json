@@ -99,5 +99,19 @@
     "createdByUsername": "@shvenkoqr",
     "createdByName": "𝗸𝗶𝗻𝗼𝗺𝗱",
     "source": "telegram"
+  },
+  {
+    "id": "375b7bcdee56",
+    "username": "xezpher",
+    "passwordHash": "$2a$10$I0diuVP8pLysL9c7DcGNROq8a2DIDl0OdR0/KMa5/lHSvF.3WXPcG",
+    "role": "ADMIN",
+    "status": "active",
+    "telegramId": "8295888517",
+    "expiredAt": null,
+    "createdAt": "2026-10-05T11:26:37.281Z",
+    "createdBy": "1016947328",
+    "createdByUsername": "@shvenkoqr",
+    "createdByName": "𝗸𝗶𝗻𝗼𝗺𝗱",
+    "source": "telegram"
   }
 ]
