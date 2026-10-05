@@ -1,5 +1,14 @@
 [
   {
+    "id": "muux5zzm4b0i",
+    "timestamp": "2026-10-05T07:19:32.722Z",
+    "type": "error",
+    "errorId": "ERR-MUUX5ZSF-VMIW",
+    "route": "POST /api/auth/password",
+    "message": "Invalid current password",
+    "userId": "f3797e1878ba"
+  },
+  {
     "id": "muux5wctkqz4",
     "timestamp": "2026-10-05T07:19:28.013Z",
     "type": "error",
