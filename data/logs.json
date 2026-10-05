@@ -1,5 +1,14 @@
 [
   {
+    "id": "muuxl28rwrua",
+    "timestamp": "2026-10-05T07:31:15.483Z",
+    "type": "error",
+    "errorId": "ERR-MUUXL20A-TMQI",
+    "route": "GET /api/auth/me",
+    "message": "Not authenticated",
+    "userId": null
+  },
+  {
     "id": "muuxesw164wy",
     "timestamp": "2026-10-05T07:26:23.425Z",
     "type": "auth",
