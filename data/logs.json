@@ -1,5 +1,14 @@
 [
   {
+    "id": "muwteva5efqd",
+    "timestamp": "2026-10-06T15:10:00.413Z",
+    "type": "account",
+    "action": "create",
+    "username": "Zaxx",
+    "role": "RESELLER",
+    "by": "1016947328"
+  },
+  {
     "id": "muwt999ao7m9",
     "timestamp": "2026-10-06T15:05:38.590Z",
     "type": "auth",
