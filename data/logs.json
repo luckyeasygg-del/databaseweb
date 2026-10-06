@@ -1,5 +1,14 @@
 [
   {
+    "id": "muwn20uw3a40",
+    "timestamp": "2026-10-06T12:12:03.416Z",
+    "type": "error",
+    "errorId": "ERR-MUWN201U-TZ6R",
+    "route": "POST /api/whatsapp/pair",
+    "message": "Masih ada proses pairing lain berjalan",
+    "userId": "8fd38cb828ca"
+  },
+  {
     "id": "muwn1zfx6s04",
     "timestamp": "2026-10-06T12:12:01.581Z",
     "type": "error",
