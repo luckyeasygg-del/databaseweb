@@ -1,5 +1,14 @@
 [
   {
+    "id": "muwbdw6d1qqk",
+    "timestamp": "2026-10-06T06:45:21.829Z",
+    "type": "error",
+    "errorId": "ERR-MUWBDVY8-ZZ67",
+    "route": "POST /api/auth/login",
+    "message": "User not found",
+    "userId": null
+  },
+  {
     "id": "muwbds2d8t1i",
     "timestamp": "2026-10-06T06:45:16.501Z",
     "type": "error",
