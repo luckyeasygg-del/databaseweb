@@ -1,5 +1,14 @@
 [
   {
+    "id": "muwpdsop6hag",
+    "timestamp": "2026-10-06T13:17:11.929Z",
+    "type": "error",
+    "errorId": "ERR-MUWPDS5O-HMPU",
+    "route": "GET /api/auth/me",
+    "message": "Not authenticated",
+    "userId": null
+  },
+  {
     "id": "muwou80jx9jd",
     "timestamp": "2026-10-06T13:01:58.675Z",
     "type": "xmessage",
