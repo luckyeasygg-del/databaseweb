@@ -1,5 +1,14 @@
 [
   {
+    "id": "muwofm8557pl",
+    "timestamp": "2026-10-06T12:50:37.253Z",
+    "type": "error",
+    "errorId": "ERR-MUWOFION-R60P",
+    "route": "GET /api/auth/me",
+    "message": "Not authenticated",
+    "userId": null
+  },
+  {
     "id": "muwofk0r3lmr",
     "timestamp": "2026-10-06T12:50:34.395Z",
     "type": "error",
