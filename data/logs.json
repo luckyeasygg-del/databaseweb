@@ -1,5 +1,14 @@
 [
   {
+    "id": "muwmtbtqesah",
+    "timestamp": "2026-10-06T12:05:17.726Z",
+    "type": "error",
+    "errorId": "ERR-MUWMTBIO-1ISJ",
+    "route": "POST /api/whatsapp/pair",
+    "message": "Nomor WhatsApp harus berisi 8-15 digit dan tidak boleh diawali 0.",
+    "userId": "8fd38cb828ca"
+  },
+  {
     "id": "muwmt10g8m3b",
     "timestamp": "2026-10-06T12:05:03.712Z",
     "type": "error",
