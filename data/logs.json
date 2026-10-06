@@ -1,5 +1,14 @@
 [
   {
+    "id": "muwmt10g8m3b",
+    "timestamp": "2026-10-06T12:05:03.712Z",
+    "type": "error",
+    "errorId": "ERR-MUWMT0SZ-O2XQ",
+    "route": "POST /api/whatsapp/confirm",
+    "message": "Timeout menunggu WhatsApp terhubung",
+    "userId": "8fd38cb828ca"
+  },
+  {
     "id": "muwmqtxylyxh",
     "timestamp": "2026-10-06T12:03:21.238Z",
     "type": "whatsapp",
