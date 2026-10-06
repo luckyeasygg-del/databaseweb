@@ -1,5 +1,14 @@
 [
   {
+    "id": "muwr47vko517",
+    "timestamp": "2026-10-06T14:05:44.288Z",
+    "type": "account",
+    "action": "create",
+    "username": "Rizzbae",
+    "role": "RESELLER",
+    "by": "1016947328"
+  },
+  {
     "id": "muwqawd83ds2",
     "timestamp": "2026-10-06T13:42:56.348Z",
     "type": "error",
