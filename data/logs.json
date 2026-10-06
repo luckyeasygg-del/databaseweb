@@ -1,5 +1,14 @@
 [
   {
+    "id": "muwkp6twc98b",
+    "timestamp": "2026-10-06T11:06:05.396Z",
+    "type": "account",
+    "action": "create",
+    "username": "Lambok",
+    "role": "RESELLER",
+    "by": "1016947328"
+  },
+  {
     "id": "muwjhgqpirwm",
     "timestamp": "2026-10-06T10:32:05.377Z",
     "type": "error",
