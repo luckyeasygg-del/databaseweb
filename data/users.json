@@ -94,5 +94,19 @@
     "createdBy": "031269486e0c",
     "createdByUsername": "Noid",
     "source": "web"
+  },
+  {
+    "id": "9e1d63760767",
+    "username": "Balzz",
+    "passwordHash": "$2a$10$pl1UsqYEqGFYiyWfsGQDJ.Gil9bJpLMnTuXTmLNPV4NV/B5m0pNES",
+    "role": "PREMIUM",
+    "status": "active",
+    "telegramId": "8264900501",
+    "expiredAt": null,
+    "createdAt": "2026-10-06T12:30:57.210Z",
+    "createdBy": "1016947328",
+    "createdByUsername": "@shvenkoqr",
+    "createdByName": "𝗸𝗶𝗻𝗼𝗺𝗱",
+    "source": "telegram"
   }
 ]
