@@ -122,5 +122,19 @@
     "createdByUsername": "@shvenkoqr",
     "createdByName": "𝗸𝗶𝗻𝗼𝗺𝗱",
     "source": "telegram"
+  },
+  {
+    "id": "7cc41dfb92cf",
+    "username": "Rizzbae",
+    "passwordHash": "$2a$10$eGW/RYGZGioDhft71i33guvp7pW1HU7kX3UytrGh9GrKpg1TVtlhK",
+    "role": "RESELLER",
+    "status": "active",
+    "telegramId": "8639361224",
+    "expiredAt": null,
+    "createdAt": "2026-10-06T14:05:42.457Z",
+    "createdBy": "1016947328",
+    "createdByUsername": "@shvenkoqr",
+    "createdByName": "𝗸𝗶𝗻𝗼𝗺𝗱",
+    "source": "telegram"
   }
 ]
