@@ -1,5 +1,17 @@
 [
   {
+    "id": "muwvkcx3v10a14",
+    "userId": "25a98e5fd362",
+    "title": "New private message",
+    "message": "kinomd: Woi",
+    "type": "chat",
+    "source": "chat",
+    "link": "/chat.html",
+    "silent": true,
+    "read": false,
+    "createdAt": "2026-10-06T16:10:15.783Z"
+  },
+  {
     "id": "muuvtss0wgtb14",
     "userId": "acf45c48b4b5",
     "title": "New private message",
