@@ -1,5 +1,14 @@
 [
   {
+    "id": "muwt5s6tbian",
+    "timestamp": "2026-10-06T15:02:56.501Z",
+    "type": "account",
+    "action": "create",
+    "username": "Fidzz",
+    "role": "RESELLER",
+    "by": "1016947328"
+  },
+  {
     "id": "muwt1nsgmika",
     "timestamp": "2026-10-06T14:59:44.176Z",
     "type": "error",
