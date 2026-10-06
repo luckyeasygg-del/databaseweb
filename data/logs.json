@@ -1,5 +1,14 @@
 [
   {
+    "id": "muwmiuwi9g7z",
+    "timestamp": "2026-10-06T11:57:09.234Z",
+    "type": "error",
+    "errorId": "ERR-MUWMIUCC-TMZC",
+    "route": "GET /api/auth/me",
+    "message": "Not authenticated",
+    "userId": null
+  },
+  {
     "id": "muwmhi57opa6",
     "timestamp": "2026-10-06T11:56:06.043Z",
     "type": "whatsapp",
