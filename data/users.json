@@ -113,5 +113,19 @@
     "createdByUsername": "@shvenkoqr",
     "createdByName": "𝗸𝗶𝗻𝗼𝗺𝗱",
     "source": "telegram"
+  },
+  {
+    "id": "bb3eec9e49a0",
+    "username": "Lambok",
+    "passwordHash": "$2a$10$GxrNt8MRXEEgtFQi4HVzZOIxNxClmiLqTTIGJgl0eNKzmrw5Q5Wgi",
+    "role": "RESELLER",
+    "status": "active",
+    "telegramId": "7412977715",
+    "expiredAt": null,
+    "createdAt": "2026-10-06T11:06:03.878Z",
+    "createdBy": "1016947328",
+    "createdByUsername": "@shvenkoqr",
+    "createdByName": "𝗸𝗶𝗻𝗼𝗺𝗱",
+    "source": "telegram"
   }
 ]
