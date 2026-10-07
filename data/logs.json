@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "muxuoys7c0b6",
+    "timestamp": "2026-10-07T08:33:37.303Z",
+    "type": "error",
+    "errorId": "ERR-MUXUOYJS-HQ8J",
+    "route": "POST /api/auth/login",
+    "message": "User not found",
+    "userId": null
+  }
+]
