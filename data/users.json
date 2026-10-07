@@ -164,5 +164,19 @@
     "createdByUsername": "@shvenkoqr",
     "createdByName": "𝗸𝗶𝗻𝗼𝗺𝗱",
     "source": "telegram"
+  },
+  {
+    "id": "41b701d1487f",
+    "username": "Zaxxxx",
+    "passwordHash": "$2a$10$U4p..Bu3JNzenigcmZdRXeCfkdyVtTbiV8ONuyFc4cN5nBRNCA9V2",
+    "role": "RESELLER",
+    "status": "active",
+    "telegramId": "8752675389",
+    "expiredAt": null,
+    "createdAt": "2026-10-07T01:41:58.865Z",
+    "createdBy": "1016947328",
+    "createdByUsername": "@shvenkoqr",
+    "createdByName": "𝗸𝗶𝗻𝗼𝗺𝗱",
+    "source": "telegram"
   }
 ]
