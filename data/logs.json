@@ -1,5 +1,13 @@
 [
   {
+    "id": "muy4i338a0ty",
+    "timestamp": "2026-10-07T13:08:12.452Z",
+    "type": "auth",
+    "action": "login",
+    "username": "ell",
+    "userId": "8fd38cb828ca"
+  },
+  {
     "id": "muy4hqt2q913",
     "timestamp": "2026-10-07T13:07:56.534Z",
     "type": "error",
