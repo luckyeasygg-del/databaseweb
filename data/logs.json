@@ -1,5 +1,14 @@
 [
   {
+    "id": "muyziglvebse",
+    "timestamp": "2026-10-08T03:36:18.067Z",
+    "type": "error",
+    "errorId": "ERR-MUYZIG2D-TDOS",
+    "route": "GET /api/auth/me",
+    "message": "Not authenticated",
+    "userId": null
+  },
+  {
     "id": "muy4jbuyn1li",
     "timestamp": "2026-10-07T13:09:10.474Z",
     "type": "whatsapp",
