@@ -1,5 +1,14 @@
 [
   {
+    "id": "muz24wrhilfg",
+    "timestamp": "2026-10-08T04:49:44.669Z",
+    "type": "error",
+    "errorId": "ERR-MUZ24W5F-VHRJ",
+    "route": "GET /api/auth/me",
+    "message": "Not authenticated",
+    "userId": null
+  },
+  {
     "id": "muz1ytfo9yds",
     "timestamp": "2026-10-08T04:45:00.420Z",
     "type": "xmessage",
