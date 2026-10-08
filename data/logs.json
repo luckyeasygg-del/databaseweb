@@ -1,5 +1,14 @@
 [
   {
+    "id": "muz26004jznp",
+    "timestamp": "2026-10-08T04:50:35.524Z",
+    "type": "error",
+    "errorId": "ERR-MUZ25ZH2-70TT",
+    "route": "GET /api/dashboard",
+    "message": "other side closed",
+    "userId": "a6caf3f1a620"
+  },
+  {
     "id": "muz251o2n2ch",
     "timestamp": "2026-10-08T04:49:51.026Z",
     "type": "auth",
