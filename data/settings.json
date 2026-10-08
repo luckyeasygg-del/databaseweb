@@ -1,1 +1,81 @@
-{}
+{
+  "pricing": {
+    "updatedAt": "2026-10-08T05:59:51.917Z",
+    "plans": {
+      "PREMIUM": [
+        {
+          "id": "premium_15",
+          "label": "15 hari",
+          "duration": 15,
+          "price": 10000
+        },
+        {
+          "id": "premium_30",
+          "label": "30 hari",
+          "duration": 30,
+          "price": 15000
+        },
+        {
+          "id": "premium_60",
+          "label": "60 hari",
+          "duration": 60,
+          "price": 25000
+        },
+        {
+          "id": "premium_permanent",
+          "label": "Permanen",
+          "duration": "permanent",
+          "price": 35000
+        }
+      ],
+      "VVIP": [
+        {
+          "id": "vvip_10",
+          "label": "10 hari",
+          "duration": 10,
+          "price": 10000
+        },
+        {
+          "id": "vvip_30",
+          "label": "30 hari",
+          "duration": 30,
+          "price": 20000
+        },
+        {
+          "id": "vvip_60",
+          "label": "60 hari",
+          "duration": 60,
+          "price": 30000
+        },
+        {
+          "id": "vvip_permanent",
+          "label": "Permanen",
+          "duration": "permanent",
+          "price": 50000
+        }
+      ],
+      "SELLER": [
+        {
+          "id": "seller_30",
+          "label": "30 hari",
+          "duration": 30,
+          "price": 30000
+        },
+        {
+          "id": "seller_permanent",
+          "label": "Permanen",
+          "duration": "permanent",
+          "price": 65000
+        }
+      ],
+      "ADMIN": [
+        {
+          "id": "admin_permanent",
+          "label": "Permanen",
+          "duration": "permanent",
+          "price": 100000
+        }
+      ]
+    }
+  }
+}
