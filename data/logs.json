@@ -1,5 +1,14 @@
 [
   {
+    "id": "mv07mkn51jh8",
+    "timestamp": "2026-10-09T00:11:13.025Z",
+    "type": "error",
+    "errorId": "ERR-MV07MKFT-99PG",
+    "route": "POST /api/auth/login",
+    "message": "Invalid password",
+    "userId": null
+  },
+  {
     "id": "mv07mavoigwk",
     "timestamp": "2026-10-09T00:11:00.372Z",
     "type": "error",
