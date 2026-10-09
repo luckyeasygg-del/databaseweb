@@ -1,5 +1,15 @@
 [
   {
+    "id": "mv0kxvvx3bit",
+    "timestamp": "2026-10-09T06:23:55.821Z",
+    "type": "account",
+    "action": "role_change_web",
+    "username": "Balzz",
+    "role": "RESELLER",
+    "by": "kinomd",
+    "userId": "a6caf3f1a620"
+  },
+  {
     "id": "mv0kwu41zhhn",
     "timestamp": "2026-10-09T06:23:06.865Z",
     "type": "error",
