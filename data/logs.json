@@ -1,5 +1,14 @@
 [
   {
+    "id": "mv0pdtn7gnp9",
+    "timestamp": "2026-10-09T08:28:17.875Z",
+    "type": "account",
+    "action": "delete_web",
+    "username": "Zaki",
+    "role": "RESELLER",
+    "userId": "a6caf3f1a620"
+  },
+  {
     "id": "mv0p1ov1upc0",
     "timestamp": "2026-10-09T08:18:51.805Z",
     "type": "xmessage",
