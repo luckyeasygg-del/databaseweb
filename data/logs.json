@@ -1,5 +1,14 @@
 [
   {
+    "id": "mv0y7wjq136b",
+    "timestamp": "2026-10-09T12:35:38.246Z",
+    "type": "error",
+    "errorId": "ERR-MV0Y7WBR-FK19",
+    "route": "POST /api/whatsapp/pair",
+    "message": "Masih ada proses pairing lain berjalan",
+    "userId": "b2c9ddfe94d9"
+  },
+  {
     "id": "mv0y70b4iepq",
     "timestamp": "2026-10-09T12:34:56.464Z",
     "type": "error",
