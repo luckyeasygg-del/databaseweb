@@ -1,9 +1,9 @@
 [
   {
-    "id": "mv105sf86r64",
-    "timestamp": "2026-10-09T13:29:58.820Z",
+    "id": "mv105tmkky05",
+    "timestamp": "2026-10-09T13:30:00.380Z",
     "type": "error",
-    "errorId": "ERR-MV105S5W-SOVJ",
+    "errorId": "ERR-MV105T4A-D7H6",
     "route": "POST /api/auth/login",
     "message": "User not found",
     "userId": null
