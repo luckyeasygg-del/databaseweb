@@ -1,5 +1,14 @@
 [
   {
+    "id": "mv0wj21d567e",
+    "timestamp": "2026-10-09T11:48:19.345Z",
+    "type": "account",
+    "action": "create_web",
+    "username": "wawan",
+    "role": "PREMIUM",
+    "userId": "9e1d63760767"
+  },
+  {
     "id": "mv0wi4c5asuz",
     "timestamp": "2026-10-09T11:47:35.669Z",
     "type": "whatsapp",
