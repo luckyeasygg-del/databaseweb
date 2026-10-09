@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "mv0whqe2t4jv",
+    "timestamp": "2026-10-09T11:47:17.594Z",
+    "type": "whatsapp",
+    "action": "pair_start",
+    "number": "6283841429774",
+    "userId": "a6caf3f1a620"
+  }
+]
