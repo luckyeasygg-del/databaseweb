@@ -1,5 +1,14 @@
 [
   {
+    "id": "mv0kt780cr3v",
+    "timestamp": "2026-10-09T06:20:17.232Z",
+    "type": "error",
+    "errorId": "ERR-MV0KT66M-0904",
+    "route": "POST /api/auth/login",
+    "message": "User not found",
+    "userId": null
+  },
+  {
     "id": "mv0kt5j51kc7",
     "timestamp": "2026-10-09T06:20:15.041Z",
     "type": "error",
