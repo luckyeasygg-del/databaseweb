@@ -206,5 +206,18 @@
     "createdByUsername": "@hanscuwek",
     "createdByName": "𝐗-𝐇𝐀𝐍𝐙 𝐕 𝐎𝐍𝐄𝐗👑",
     "source": "telegram"
+  },
+  {
+    "id": "b2c9ddfe94d9",
+    "username": "wawan",
+    "passwordHash": "$2a$10$J2lMifXmf/BoD/ld.F2kf.chNNYemeE/6E4Qxy1fJ6EDjIKC2B1ea",
+    "role": "PREMIUM",
+    "status": "active",
+    "telegramId": null,
+    "expiredAt": null,
+    "createdAt": "2026-10-09T11:48:17.510Z",
+    "createdBy": "9e1d63760767",
+    "createdByUsername": "Balzz",
+    "source": "web"
   }
 ]
