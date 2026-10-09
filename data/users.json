@@ -178,5 +178,18 @@
     "createdByUsername": "@shvenkoqr",
     "createdByName": "𝗸𝗶𝗻𝗼𝗺𝗱",
     "source": "telegram"
+  },
+  {
+    "id": "1ded9cbb1061",
+    "username": "Tes",
+    "passwordHash": "$2a$10$CosXu9UeFzfqhcJJeuZsq.p1SLKoFHYyx2C5lcEKe4v6nLVh9pqCe",
+    "role": "PREMIUM",
+    "status": "active",
+    "telegramId": null,
+    "expiredAt": null,
+    "createdAt": "2026-10-09T00:15:02.161Z",
+    "createdBy": "41b701d1487f",
+    "createdByUsername": "Zaxxxx",
+    "source": "web"
   }
 ]
