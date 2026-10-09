@@ -192,5 +192,19 @@
     "createdByUsername": "@shvenkoqr",
     "createdByName": "𝗸𝗶𝗻𝗼𝗺𝗱",
     "source": "telegram"
+  },
+  {
+    "id": "b101697f9413",
+    "username": "ikyy",
+    "passwordHash": "$2a$10$8F/AFxn5jpYPXaT.bzoLDebJPhs3PkD6/3gMPtwuJhecUkFNY0lxe",
+    "role": "ADMIN",
+    "status": "active",
+    "telegramId": "1083577178",
+    "expiredAt": "2054-02-23T06:03:43.893Z",
+    "createdAt": "2026-10-09T06:03:43.893Z",
+    "createdBy": "7304598962",
+    "createdByUsername": "@hanscuwek",
+    "createdByName": "𝐗-𝐇𝐀𝐍𝐙 𝐕 𝐎𝐍𝐄𝐗👑",
+    "source": "telegram"
   }
 ]
