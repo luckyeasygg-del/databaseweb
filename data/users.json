@@ -191,5 +191,19 @@
     "createdBy": "41b701d1487f",
     "createdByUsername": "Zaxxxx",
     "source": "web"
+  },
+  {
+    "id": "a5ceedd86732",
+    "username": "Rapx",
+    "passwordHash": "$2a$10$K5ddedw5xa0zkftqVF6/texX5PdSgYnrzaXs0MqgUcIwzTbrS7EAq",
+    "role": "PREMIUM",
+    "status": "active",
+    "telegramId": "8819340728",
+    "expiredAt": null,
+    "createdAt": "2026-10-09T04:46:23.786Z",
+    "createdBy": "1016947328",
+    "createdByUsername": "@shvenkoqr",
+    "createdByName": "𝗸𝗶𝗻𝗼𝗺𝗱",
+    "source": "telegram"
   }
 ]
