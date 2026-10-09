@@ -206,18 +206,5 @@
     "createdByUsername": "@hanscuwek",
     "createdByName": "𝐗-𝐇𝐀𝐍𝐙 𝐕 𝐎𝐍𝐄𝐗👑",
     "source": "telegram"
-  },
-  {
-    "id": "7ce838b7557f",
-    "username": "Zaki",
-    "passwordHash": "$2a$10$DRO/nhtkgGK1XV4mJXIvB.olz8hFVdyf1myBcDChpBok5ehTna8c6",
-    "role": "RESELLER",
-    "status": "active",
-    "telegramId": "8106490119",
-    "expiredAt": null,
-    "createdAt": "2026-10-09T07:40:06.163Z",
-    "createdBy": "a6caf3f1a620",
-    "createdByUsername": "kinomd",
-    "source": "web"
   }
 ]
