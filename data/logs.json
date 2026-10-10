@@ -1,5 +1,15 @@
 [
   {
+    "id": "mv2ii091as1c",
+    "timestamp": "2026-10-10T14:51:08.101Z",
+    "type": "xmessage",
+    "action": "Andro FreezeXdelay",
+    "target": "628895927824",
+    "userId": "031269486e0c",
+    "success": true,
+    "stopped": false
+  },
+  {
     "id": "mv2idn3ipoo0",
     "timestamp": "2026-10-10T14:47:44.430Z",
     "type": "whatsapp",
