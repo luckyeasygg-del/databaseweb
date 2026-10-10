@@ -1,5 +1,14 @@
 [
   {
+    "id": "mv2dl5s0nt9m",
+    "timestamp": "2026-10-10T12:33:37.153Z",
+    "type": "error",
+    "errorId": "ERR-MV2DL4MM-3BYR",
+    "route": "GET /api/xmessage/console",
+    "message": "Not authenticated",
+    "userId": null
+  },
+  {
     "id": "mv2dl4tz6oh4",
     "timestamp": "2026-10-10T12:33:35.927Z",
     "type": "error",
