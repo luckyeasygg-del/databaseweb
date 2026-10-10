@@ -1,5 +1,14 @@
 [
   {
+    "id": "mv2dl4tz6oh4",
+    "timestamp": "2026-10-10T12:33:35.927Z",
+    "type": "error",
+    "errorId": "ERR-MV2DL4JB-WETP",
+    "route": "GET /api/whatsapp/global-active",
+    "message": "Not authenticated",
+    "userId": null
+  },
+  {
     "id": "mv29ce3ehsy9",
     "timestamp": "2026-10-10T10:34:49.562Z",
     "type": "auth",
