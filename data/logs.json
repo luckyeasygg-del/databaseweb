@@ -1,5 +1,14 @@
 [
   {
+    "id": "mv3cprpzvlmy",
+    "timestamp": "2026-10-11T04:56:58.775Z",
+    "type": "error",
+    "errorId": "ERR-MV3CPRFC-X7UO",
+    "route": "GET /api/auth/me",
+    "message": "Not authenticated",
+    "userId": null
+  },
+  {
     "id": "mv31i75awmn5",
     "timestamp": "2026-10-10T23:43:09.742Z",
     "type": "auth",
