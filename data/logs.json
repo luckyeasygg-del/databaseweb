@@ -1,5 +1,14 @@
 [
   {
+    "id": "mv3e7bvdn97b",
+    "timestamp": "2026-10-11T05:38:37.657Z",
+    "type": "error",
+    "errorId": "ERR-MV3E7BI7-U5AQ",
+    "route": "GET /api/auth/me",
+    "message": "getaddrinfo EAI_AGAIN api.github.com",
+    "userId": null
+  },
+  {
     "id": "mv3cpvt2dkw6",
     "timestamp": "2026-10-11T04:57:04.070Z",
     "type": "auth",
