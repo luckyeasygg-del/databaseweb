@@ -232,5 +232,18 @@
     "createdBy": "a6caf3f1a620",
     "createdByUsername": "kinomd",
     "source": "web"
+  },
+  {
+    "id": "3410c24a3dc6",
+    "username": "nanda",
+    "passwordHash": "$2a$10$G7rV5N.KgQrOU3dR9FvlN.AimnS2P1aF2squ/iUCV0PpQq2Cw9jXy",
+    "role": "VVIP",
+    "status": "active",
+    "telegramId": null,
+    "expiredAt": null,
+    "createdAt": "2026-10-11T05:42:57.457Z",
+    "createdBy": "9e1d63760767",
+    "createdByUsername": "Balzz",
+    "source": "web"
   }
 ]
