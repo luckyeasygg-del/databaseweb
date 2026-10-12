@@ -1,5 +1,14 @@
 [
   {
+    "id": "mv4vlde31uog",
+    "timestamp": "2026-10-12T06:33:12.459Z",
+    "type": "error",
+    "errorId": "ERR-MV4VLCV0-800E",
+    "route": "POST /api/auth/login",
+    "message": "Invalid password",
+    "userId": null
+  },
+  {
     "id": "mv4vl2i703pb",
     "timestamp": "2026-10-12T06:32:58.351Z",
     "type": "error",
