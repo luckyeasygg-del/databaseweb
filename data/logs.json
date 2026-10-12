@@ -1,5 +1,14 @@
 [
   {
+    "id": "mv4jyx2xdv75",
+    "timestamp": "2026-10-12T01:07:49.113Z",
+    "type": "error",
+    "errorId": "ERR-MV4JYVYO-F32Y",
+    "route": "POST /api/xmessage/execute",
+    "message": "Session not ready",
+    "userId": "9e1d63760767"
+  },
+  {
     "id": "mv4jyw7myrtx",
     "timestamp": "2026-10-12T01:07:47.986Z",
     "type": "xmessage",
