@@ -1,5 +1,14 @@
 [
   {
+    "id": "mv4tib1q7tmk",
+    "timestamp": "2026-10-12T05:34:50.222Z",
+    "type": "error",
+    "errorId": "ERR-MV4TIASS-ISPF",
+    "route": "GET /api/whatsapp/sessions",
+    "message": "Not authenticated",
+    "userId": null
+  },
+  {
     "id": "mv4k802pzros",
     "timestamp": "2026-10-12T01:14:52.897Z",
     "type": "auth",
