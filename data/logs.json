@@ -1,5 +1,14 @@
 [
   {
+    "id": "mv52j9jh4gv9",
+    "timestamp": "2026-10-12T09:47:31.469Z",
+    "type": "error",
+    "errorId": "ERR-MV52J846-GVUH",
+    "route": "POST /api/whatsapp/confirm",
+    "message": "Pairing gagal, sesi dihapus (kemungkinan logout/banned)",
+    "userId": "019891187d65"
+  },
+  {
     "id": "mv52j7z48ohy",
     "timestamp": "2026-10-12T09:47:29.440Z",
     "type": "whatsapp",
