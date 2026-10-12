@@ -1,5 +1,15 @@
 [
   {
+    "id": "mv4jyw7myrtx",
+    "timestamp": "2026-10-12T01:07:47.986Z",
+    "type": "xmessage",
+    "action": "Andro Freeze Home",
+    "target": "6285691181396",
+    "userId": "9e1d63760767",
+    "success": false,
+    "error": "Session not ready"
+  },
+  {
     "id": "mv4jyrvtit9b",
     "timestamp": "2026-10-12T01:07:42.377Z",
     "type": "error",
