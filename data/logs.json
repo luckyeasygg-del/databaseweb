@@ -1,5 +1,13 @@
 [
   {
+    "id": "mv52x8p52hn0",
+    "timestamp": "2026-10-12T09:58:23.561Z",
+    "type": "auth",
+    "action": "login",
+    "username": "nanda",
+    "userId": "3410c24a3dc6"
+  },
+  {
     "id": "mv52x32p3c2g",
     "timestamp": "2026-10-12T09:58:16.273Z",
     "type": "error",
