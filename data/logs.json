@@ -1,5 +1,13 @@
 [
   {
+    "id": "mv6ohhvtnpgd",
+    "timestamp": "2026-10-13T12:49:46.697Z",
+    "type": "auth",
+    "action": "login",
+    "username": "yubna",
+    "userId": "7f6488350c2e"
+  },
+  {
     "id": "mv6oh7866q3h",
     "timestamp": "2026-10-13T12:49:32.886Z",
     "type": "error",
