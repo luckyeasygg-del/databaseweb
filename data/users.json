@@ -245,5 +245,18 @@
     "createdBy": "9e1d63760767",
     "createdByUsername": "Balzz",
     "source": "web"
+  },
+  {
+    "id": "4aa1a87d78e9",
+    "username": "iftin",
+    "passwordHash": "$2a$10$OwIani/XfSRDKgaiE5UcQ.ov1WQgkWOtXJh6hT2h8OcIeY8v.Xu46",
+    "role": "VVIP",
+    "status": "active",
+    "telegramId": null,
+    "expiredAt": null,
+    "createdAt": "2026-10-13T12:30:56.226Z",
+    "createdBy": "9e1d63760767",
+    "createdByUsername": "Balzz",
+    "source": "web"
   }
 ]
