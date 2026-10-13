@@ -1,5 +1,14 @@
 [
   {
+    "id": "mv6ntb3mvr5d",
+    "timestamp": "2026-10-13T12:30:58.162Z",
+    "type": "account",
+    "action": "create_web",
+    "username": "iftin",
+    "role": "VVIP",
+    "userId": "9e1d63760767"
+  },
+  {
     "id": "mv6nse92kxw8",
     "timestamp": "2026-10-13T12:30:15.590Z",
     "type": "error",
