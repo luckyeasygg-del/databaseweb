@@ -258,5 +258,18 @@
     "createdBy": "9e1d63760767",
     "createdByUsername": "Balzz",
     "source": "web"
+  },
+  {
+    "id": "7f6488350c2e",
+    "username": "yubna",
+    "passwordHash": "$2a$10$ymRSYKoDkBYXW9cis1JvT.u4g3ZctKCdiqIHRbRR4xW.V1ofjBFMO",
+    "role": "RESELLER",
+    "status": "active",
+    "telegramId": "8629183240",
+    "expiredAt": null,
+    "createdAt": "2026-10-13T12:47:36.237Z",
+    "createdBy": "a6caf3f1a620",
+    "createdByUsername": "kinomd",
+    "source": "web"
   }
 ]
