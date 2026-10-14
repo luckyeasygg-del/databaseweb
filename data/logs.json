@@ -1,5 +1,14 @@
 [
   {
+    "id": "mv806hd73ji7",
+    "timestamp": "2026-10-14T11:04:54.379Z",
+    "type": "error",
+    "errorId": "ERR-MV806G17-504S",
+    "route": "GET /api/auth/me",
+    "message": "Not authenticated",
+    "userId": null
+  },
+  {
     "id": "mv806fuft10x",
     "timestamp": "2026-10-14T11:04:52.407Z",
     "type": "error",
