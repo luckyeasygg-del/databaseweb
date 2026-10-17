@@ -1,5 +1,14 @@
 [
   {
+    "id": "mvcil5r6mso7",
+    "timestamp": "2026-10-17T14:51:16.962Z",
+    "type": "account",
+    "action": "create",
+    "username": "arip",
+    "role": "RESELLER",
+    "by": "7304598962"
+  },
+  {
     "id": "mvcik8h3xj4t",
     "timestamp": "2026-10-17T14:50:33.831Z",
     "type": "error",
