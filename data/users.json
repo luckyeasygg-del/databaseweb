@@ -271,5 +271,19 @@
     "createdBy": "a6caf3f1a620",
     "createdByUsername": "kinomd",
     "source": "web"
+  },
+  {
+    "id": "cc625641c35c",
+    "username": "arip",
+    "passwordHash": "$2a$10$WlhHqZ3y69yhVNtvCFqQB.xECFvtnshj9TtSavhBvP.xj9HeAXkaK",
+    "role": "RESELLER",
+    "status": "active",
+    "telegramId": "1013836518",
+    "expiredAt": "2026-10-18T14:51:14.893Z",
+    "createdAt": "2026-10-17T14:51:14.893Z",
+    "createdBy": "7304598962",
+    "createdByUsername": "@hanscuwek",
+    "createdByName": "𝐗-𝐇𝐀𝐍𝐙 𝐕 𝐎𝐍𝐄𝐗👑",
+    "source": "telegram"
   }
 ]
