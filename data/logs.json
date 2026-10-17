@@ -1,5 +1,15 @@
 [
   {
+    "id": "mvbnhmv7r9to",
+    "timestamp": "2026-10-17T00:20:44.419Z",
+    "type": "xmessage",
+    "action": "Andro Delay-X2",
+    "target": "9647812433539",
+    "userId": "a6caf3f1a620",
+    "success": false,
+    "error": "Session not ready"
+  },
+  {
     "id": "mvbnfaotx6yj",
     "timestamp": "2026-10-17T00:18:55.327Z",
     "type": "whatsapp",
