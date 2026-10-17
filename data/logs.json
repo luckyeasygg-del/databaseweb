@@ -1,5 +1,13 @@
 [
   {
+    "id": "mvcim4wgnstf",
+    "timestamp": "2026-10-17T14:52:02.512Z",
+    "type": "auth",
+    "action": "login",
+    "username": "arip",
+    "userId": "cc625641c35c"
+  },
+  {
     "id": "mvcil5r6mso7",
     "timestamp": "2026-10-17T14:51:16.962Z",
     "type": "account",
