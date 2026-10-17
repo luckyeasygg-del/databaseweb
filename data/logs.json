@@ -1,5 +1,14 @@
 [
   {
+    "id": "mvbnhnuzzkqj",
+    "timestamp": "2026-10-17T00:20:45.708Z",
+    "type": "error",
+    "errorId": "ERR-MVBNHMNC-9M1G",
+    "route": "POST /api/xmessage/execute",
+    "message": "Session not ready",
+    "userId": "a6caf3f1a620"
+  },
+  {
     "id": "mvbnhmv7r9to",
     "timestamp": "2026-10-17T00:20:44.419Z",
     "type": "xmessage",
