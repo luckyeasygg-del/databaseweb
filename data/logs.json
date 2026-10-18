@@ -1,5 +1,14 @@
 [
   {
+    "id": "mvdbia253huk",
+    "timestamp": "2026-10-18T04:20:51.437Z",
+    "type": "error",
+    "errorId": "ERR-MVDBI9U1-NCZ8",
+    "route": "POST /api/whatsapp/pair",
+    "message": "Nomor sudah terpasang",
+    "userId": "a6caf3f1a620"
+  },
+  {
     "id": "mvdbf8f2qd9w",
     "timestamp": "2026-10-18T04:18:29.344Z",
     "type": "xmessage",
