@@ -1,5 +1,15 @@
 [
   {
+    "id": "mvdy5myyxez6",
+    "timestamp": "2026-10-18T14:54:52.810Z",
+    "type": "account",
+    "action": "auto_expired_delete",
+    "username": "arip",
+    "role": "RESELLER",
+    "userId": "cc625641c35c",
+    "sessionCount": 0
+  },
+  {
     "id": "mvdul7ezdqik",
     "timestamp": "2026-10-18T13:15:00.683Z",
     "type": "error",
