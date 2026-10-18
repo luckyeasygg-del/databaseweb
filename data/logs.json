@@ -1,5 +1,14 @@
 [
   {
+    "id": "mvduj97haoat",
+    "timestamp": "2026-10-18T13:13:29.693Z",
+    "type": "error",
+    "errorId": "ERR-MVDUJ90X-CEIR",
+    "route": "GET /api/auth/me",
+    "message": "Not authenticated",
+    "userId": null
+  },
+  {
     "id": "mvdt7jko0t6t",
     "timestamp": "2026-10-18T12:36:23.641Z",
     "type": "xmessage",
