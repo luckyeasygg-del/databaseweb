@@ -1,5 +1,14 @@
 [
   {
+    "id": "mvjfxa1d3jrq",
+    "timestamp": "2026-10-22T11:11:06.769Z",
+    "type": "error",
+    "errorId": "ERR-MVJFX9EB-8X57",
+    "route": "POST /api/whatsapp/confirm",
+    "message": "Pairing gagal, sesi dihapus (kemungkinan logout/banned)",
+    "userId": "a6caf3f1a620"
+  },
+  {
     "id": "mvjfx97ei243",
     "timestamp": "2026-10-22T11:11:05.690Z",
     "type": "whatsapp",
