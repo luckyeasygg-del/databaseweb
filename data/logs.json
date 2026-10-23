@@ -1,5 +1,13 @@
 [
   {
+    "id": "mvktaiocpdjp",
+    "timestamp": "2026-10-23T10:13:05.676Z",
+    "type": "auth",
+    "action": "login",
+    "username": "iftin",
+    "userId": "4aa1a87d78e9"
+  },
+  {
     "id": "mvkta1vito34",
     "timestamp": "2026-10-23T10:12:43.902Z",
     "type": "error",
