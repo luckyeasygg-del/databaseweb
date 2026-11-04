@@ -1,5 +1,14 @@
 [
   {
+    "id": "mw2rydfll74g",
+    "timestamp": "2026-11-04T23:55:30.561Z",
+    "type": "account",
+    "action": "create_web",
+    "username": "Taxx",
+    "role": "OWNER",
+    "userId": "a6caf3f1a620"
+  },
+  {
     "id": "mw2rw3h02es9",
     "timestamp": "2026-11-04T23:53:44.340Z",
     "type": "account",
