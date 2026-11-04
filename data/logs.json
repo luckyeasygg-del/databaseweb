@@ -1,5 +1,13 @@
 [
   {
+    "id": "mw2rw3h02es9",
+    "timestamp": "2026-11-04T23:53:44.340Z",
+    "type": "account",
+    "action": "delete",
+    "username": "Taxxrevv",
+    "by": "1016947328"
+  },
+  {
     "id": "mw2rrbibavgw",
     "timestamp": "2026-11-04T23:50:01.475Z",
     "type": "auth",
