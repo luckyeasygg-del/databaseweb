@@ -257,5 +257,18 @@
     "createdBy": "a6caf3f1a620",
     "createdByUsername": "kinomd",
     "source": "web"
+  },
+  {
+    "id": "fb6270e2abb4",
+    "username": "Taxx",
+    "passwordHash": "$2a$10$o5Ypm7CCNmvruO7tHT1IcuDtZ4QjS3jyB5t.M1gW.Qbsji.9sSWke",
+    "role": "OWNER",
+    "status": "active",
+    "telegramId": "2088805284",
+    "expiredAt": null,
+    "createdAt": "2026-11-04T23:55:28.675Z",
+    "createdBy": "a6caf3f1a620",
+    "createdByUsername": "kinomd",
+    "source": "web"
   }
 ]
