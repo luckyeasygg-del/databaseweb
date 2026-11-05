@@ -1,5 +1,14 @@
 [
   {
+    "id": "mw2spcp8usyi",
+    "timestamp": "2026-11-05T00:16:29.324Z",
+    "type": "error",
+    "errorId": "ERR-MW2SPC3Y-FCER",
+    "route": "GET /api/dashboard",
+    "message": "Connect Timeout Error (attempted address: api.github.com:443, timeout: 10000ms)",
+    "userId": null
+  },
+  {
     "id": "mw2soyt1ovz9",
     "timestamp": "2026-11-05T00:16:11.317Z",
     "type": "error",
