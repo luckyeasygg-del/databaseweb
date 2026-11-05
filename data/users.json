@@ -270,5 +270,18 @@
     "createdBy": "a6caf3f1a620",
     "createdByUsername": "kinomd",
     "source": "web"
+  },
+  {
+    "id": "1ff59f7ed56f",
+    "username": "yubnairani",
+    "passwordHash": "$2a$10$yLvJg83Z7UGqBeg8Cn6dvePuLBKmOt/RpKCORKnFQEVKFEcy1vEXO",
+    "role": "RESELLER",
+    "status": "active",
+    "telegramId": "8629183240",
+    "expiredAt": "2027-11-05T05:22:49.768Z",
+    "createdAt": "2026-11-05T05:22:49.768Z",
+    "createdBy": "fb6270e2abb4",
+    "createdByUsername": "Taxx",
+    "source": "web"
   }
 ]
