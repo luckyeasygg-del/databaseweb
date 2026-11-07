@@ -1,5 +1,14 @@
 [
   {
+    "id": "mw5xwqqwwr8v",
+    "timestamp": "2026-11-07T05:05:30.728Z",
+    "type": "error",
+    "errorId": "ERR-MW5XWQCV-QYRG",
+    "route": "POST /api/database/users",
+    "message": "Username already exists",
+    "userId": "a6caf3f1a620"
+  },
+  {
     "id": "mw5xwey4r20k",
     "timestamp": "2026-11-07T05:05:15.437Z",
     "type": "error",
