@@ -1,5 +1,14 @@
 [
   {
+    "id": "mw5xxgqp5kc9",
+    "timestamp": "2026-11-07T05:06:04.417Z",
+    "type": "account",
+    "action": "create_web",
+    "username": "ikyzz",
+    "role": "RESELLER",
+    "userId": "a6caf3f1a620"
+  },
+  {
     "id": "mw5xx041r1zz",
     "timestamp": "2026-11-07T05:05:42.865Z",
     "type": "error",
