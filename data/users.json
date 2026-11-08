@@ -296,5 +296,18 @@
     "createdBy": "a6caf3f1a620",
     "createdByUsername": "kinomd",
     "source": "web"
+  },
+  {
+    "id": "851aa6661c75",
+    "username": "promax",
+    "passwordHash": "$2a$10$uVi03T63f/l07l25WgYtD.2kYCsI3CqhoD5.JWZjRO3K9VlYoi3OK",
+    "role": "RESELLER",
+    "status": "active",
+    "telegramId": "8290770910",
+    "expiredAt": null,
+    "createdAt": "2026-11-08T02:52:04.595Z",
+    "createdBy": "a6caf3f1a620",
+    "createdByUsername": "kinomd",
+    "source": "web"
   }
 ]
