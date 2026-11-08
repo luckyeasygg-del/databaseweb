@@ -1,5 +1,14 @@
 [
   {
+    "id": "mw78l1fl8drx",
+    "timestamp": "2026-11-08T02:52:06.657Z",
+    "type": "account",
+    "action": "create_web",
+    "username": "promax",
+    "role": "RESELLER",
+    "userId": "a6caf3f1a620"
+  },
+  {
     "id": "mw78jgc81vt7",
     "timestamp": "2026-11-08T02:50:52.664Z",
     "type": "auth",
