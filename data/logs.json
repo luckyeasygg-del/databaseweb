@@ -1,5 +1,14 @@
 [
   {
+    "id": "mwbndc564wz0",
+    "timestamp": "2026-11-11T04:57:06.234Z",
+    "type": "error",
+    "errorId": "ERR-MWBNDBGP-AWXP",
+    "route": "GET /api/auth/me",
+    "message": "Not authenticated",
+    "userId": null
+  },
+  {
     "id": "mw9iygxvte9k",
     "timestamp": "2026-11-09T17:18:01.795Z",
     "type": "auth",
