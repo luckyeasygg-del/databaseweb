@@ -1,5 +1,14 @@
 [
   {
+    "id": "mwh4wxc6cl5s",
+    "timestamp": "2026-11-15T01:07:04.518Z",
+    "type": "whatsapp",
+    "action": "session_deleted",
+    "number": "6285713871150",
+    "userId": "a6caf3f1a620",
+    "targetUserId": "a6caf3f1a620"
+  },
+  {
     "id": "mwh4wcc5b34f",
     "timestamp": "2026-11-15T01:06:37.301Z",
     "type": "whatsapp",
