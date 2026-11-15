@@ -1,5 +1,14 @@
 [
   {
+    "id": "mwh9398l7pim",
+    "timestamp": "2026-11-15T03:03:58.341Z",
+    "type": "account",
+    "action": "create_web",
+    "username": "xezpher",
+    "role": "RESELLER",
+    "userId": "a6caf3f1a620"
+  },
+  {
     "id": "mwh90rik8wlm",
     "timestamp": "2026-11-15T03:02:02.060Z",
     "type": "account",
