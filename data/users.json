@@ -295,5 +295,18 @@
     "createdBy": "a6caf3f1a620",
     "createdByUsername": "kinomd",
     "source": "web"
+  },
+  {
+    "id": "030a7a2bae45",
+    "username": "xezpher",
+    "passwordHash": "$2a$10$83cD12Zo7UT8irQEtvMH4esgFmGScnCzHH/2OQSQ9tYyQIW1A7g5y",
+    "role": "RESELLER",
+    "status": "active",
+    "telegramId": "8295888517",
+    "expiredAt": null,
+    "createdAt": "2026-11-15T03:03:55.762Z",
+    "createdBy": "a6caf3f1a620",
+    "createdByUsername": "kinomd",
+    "source": "web"
   }
 ]
