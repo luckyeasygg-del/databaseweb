@@ -1,5 +1,13 @@
 [
   {
+    "id": "mwh4w0j7ebqa",
+    "timestamp": "2026-11-15T01:06:22.003Z",
+    "type": "whatsapp",
+    "action": "pair_success",
+    "number": "6285713871150",
+    "userId": "a6caf3f1a620"
+  },
+  {
     "id": "mwh4vmh9vo3l",
     "timestamp": "2026-11-15T01:06:03.789Z",
     "type": "whatsapp",
