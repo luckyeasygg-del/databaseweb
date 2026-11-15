@@ -308,5 +308,18 @@
     "createdBy": "a6caf3f1a620",
     "createdByUsername": "kinomd",
     "source": "web"
+  },
+  {
+    "id": "d2b72d5bb472",
+    "username": "hanzmke",
+    "passwordHash": "$2a$10$rqX/RvnKpdyYqdc5PEuhs.ZekdNYrCAnbFefrhILjCYqitV0CRzqy",
+    "role": "RESELLER",
+    "status": "active",
+    "telegramId": "8886311469",
+    "expiredAt": null,
+    "createdAt": "2026-11-15T03:06:39.224Z",
+    "createdBy": "a6caf3f1a620",
+    "createdByUsername": "kinomd",
+    "source": "web"
   }
 ]
