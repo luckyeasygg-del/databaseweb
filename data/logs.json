@@ -1,5 +1,14 @@
 [
   {
+    "id": "mwm35xvxg8yt",
+    "timestamp": "2026-11-18T12:16:56.781Z",
+    "type": "account",
+    "action": "delete_web",
+    "username": "Fidzz",
+    "role": "RESELLER",
+    "userId": "a6caf3f1a620"
+  },
+  {
     "id": "mwm01cpz07ww",
     "timestamp": "2026-11-18T10:49:23.880Z",
     "type": "error",
