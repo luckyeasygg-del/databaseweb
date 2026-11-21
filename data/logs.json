@@ -1,5 +1,15 @@
 [
   {
+    "id": "mwqfqhq27r57",
+    "timestamp": "2026-11-21T13:19:55.706Z",
+    "type": "xmessage",
+    "action": "Delay Infinity",
+    "target": "6285832098850",
+    "userId": "9e1d63760767",
+    "success": false,
+    "error": "Rxdnieh is not defined"
+  },
+  {
     "id": "mwqfp2gaed33",
     "timestamp": "2026-11-21T13:18:49.258Z",
     "type": "whatsapp",
